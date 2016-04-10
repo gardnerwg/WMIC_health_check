@@ -1,4 +1,4 @@
-Placeholder Repository
+WMIC Check commanf file
 =======================
 
-inititial repo to check out git hub
+Run for a folder as windows administrator with the serverlist.txt seed file
